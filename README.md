@@ -1,1 +1,1 @@
-# ZC-IPINN
+# Data-to-physics framework
